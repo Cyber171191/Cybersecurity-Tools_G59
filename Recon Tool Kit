@@ -1,0 +1,17 @@
+cybersecurity-tools/   <- Your main GitHub repo
+│
+├── recon-toolkit/
+│   ├── main.py
+│   ├── requirements.txt
+│   ├── README.md
+│   ├── screenshots/
+│   │   └── recon-output.png
+│   └── demo.gif  <- Optional terminal demo or screen recording
+│
+├── abrupt-bruteforce/
+│   ├── abrupt.py
+│   ├── wordlist.txt
+│   ├── README.md
+│   └── demo.gif
+│
+└── README.md  <- Root file that links to both tools
